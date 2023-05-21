@@ -18,19 +18,19 @@ This kind of issue that the Philippines has is really disturbing because it is s
 
 ![E_SDG_goals_icons-individual-rgb-03](https://user-images.githubusercontent.com/112838111/234018385-14e65330-702d-4af9-bb13-7f024d1947bf.png)
 
-To sum up, this analysis focuses on SDG 3, which is good health and well-being. The purpose of this analysis is to determine the highest cause of death in a specific region in the Philippines. The dataset is from the Philippine Statistic Authority, which will conduct the analysis to procure the required yearly changes from 2006–2017. This study will be evidence of whether Filipinos will truly care about themselves.
+To sum up, this analysis focuses on SDG 3, which is good health and well-being. This analysis aims to determine the highest cause of death in a specific region in the Philippines. The dataset is from the Philippine Statistic Authority, which will conduct the analysis to procure the required yearly changes from 2006–2017. This study will be evidence of whether Filipinos will truly care about themselves.
 
 ### Problem Statement
-Identifying the highest cases of death in a specific region and raising awareness to avoid the disease.
+Identifying the highest cases of death in a specific region and raising awareness to lessen death.
 ### Significance of the Study
 Health effects (or health impacts) are changes in health resulting from exposure to a source. Health effects are an important consideration in many areas, such as hygiene, pollution studies, occupational safety and health, ([nutrition]), and health sciences in general. Some of the major environmental sources of health effects are air pollution, water pollution, soil contamination, noise pollution, and over-illumination.
 This research will assist individuals and society by allowing them to raise awareness and prevent disease. This initiative allows the community to gather information and will assist them in gaining more awareness.
 ### Methods
 Studies on health and the rising death rate in the Philippines have added to the available empirical evidence and deepened our understanding of the subject. Therefore, carrying out empirical research is a suitable method for advancing and investigating new research. In order to draw a conclusion and offer better guidance, this concentrates on doing an analysis of information in the Philippines. Additionally, it will show the typical trend of death causes.
 ### Expected Output
-Prior to making any assumptions, the project's objective is to identify the broad pattern in the data that will aid the researcher. When the analysis's findings are established and show a correlation between various factors, as well as when those findings are deteriorating, they can be utilized to disseminate preventative measures to lower the probability of dying from that cause. It can also aid in future research to develop a strong strategic plan.
+Prior to making any assumptions, the project's objective is to identify the broad pattern in the data that will aid the researcher. When the analysis's findings are established and show a correlation between various factors and when those findings are deteriorating, they can be utilized to disseminate preventative measures to lower the probability of dying from that cause. It can also aid in future research to develop a strong strategic plan.
 
-### Refferences
+### References
 1.[(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1448258/?fbclid=IwAR0FuA1PBXavtCblrett3zFxdOFwalMLwPdS8HzITvDsoIGDQLarwbAF3Ck || Today’s Health Problems and Health Education - PMC (nih.gov)
 )]
 
