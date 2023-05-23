@@ -1,0 +1,12 @@
+﻿Cause of Death,Total,Male,Female
+ Malignant neoplasm of prostate,"3,038","3,038", - 
+Diabetes Mellitus,"32,106","15,796","16,310"
+"  Endocrine, nutritional and metabolic diseases","42,654","20,283","22,371"
+  Certain infectious and parasitic diseases,"40,929","26,486","14,443"
+ Pneumonia,"56,815","27,863","28,952"
+ Neoplasms,"67,138","31,870","35,268"
+ Cerebrosvascular diseases,"61,959","35,020","26,939"
+Diseases of the respiratory system,"87,720","48,842","38,878"
+ Ischaemic heart diseases,"88,433","53,128","35,305"
+  Diseases of the circulatory system,"201,483","115,130","86,353"
+    Total,"590,709","337,789","252,920"
